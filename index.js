@@ -1,3 +1,3 @@
 console.error(HALP!)
-console.log(I log data!)
+console.log(I LOG DATA!)
 console.warn(TREAD CAREFULLY!)
